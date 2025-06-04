@@ -34,10 +34,10 @@
 
 ### 🚀 Projetos em Destaque
 
-- 🛍️ **[LDE - Loja de Dispositivos Eletrônicos](https://github.com/ismarnetodev/lde-loja)**  
+- 🛍️ **[LDE - Loja de Dispositivos Eletrônicos](https://github.com/augustoluizdev/projetositeeletronicos.git)**  
   Loja virtual com HTML, CSS e JS, responsiva e com design moderno
 
-- 🧮 **[Conversor de Moedas com Gráfico](https://github.com/ismarnetodev/conversor-moedas)**  
+- 🧮 **[Conversor de Moedas com Gráfico](https://github.com/ismarnetodev/Trabalho-Jeofton.git)**  
   Sistema de login com saldo, conversor e visualização gráfica usando `CustomTkinter` e `Matplotlib`
 
 ---
