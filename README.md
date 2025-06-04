@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python">
-  <img src="https://customtkinter.tomschimansky.com/logo.png" height="40" alt="CustomTkinter">
+  <img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" height="40" alt="Java">
 </p>
 
 ---
