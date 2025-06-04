@@ -13,7 +13,7 @@
 
 ### 🧠 Sobre mim
 - 🎓 Estudante de **Ciência da Computação** no Centro Universitário de João Pessoa
-- 🛠️ Desenvolvendo interfaces modernas com **HTML, CSS, JavaScript**, **Python00 e Java**
+- 🛠️ Desenvolvendo interfaces modernas com **HTML, CSS, JavaScript**, **Python e Java**
 - 🧩 Interesses em **design responsivo**, **UI/UX**, **arquitetura de computadores** e **automação**
 - 🧠 Habilidades em **comunicação, resolução de problemas** e **organização**
 - 🔍 Em busca de oportunidades como **estagiário em TI**
