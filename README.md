@@ -5,21 +5,23 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO"><img src="https://img.shields.io/github/followers/SEU_USUARIO?style=social" alt="GitHub Followers"></a>
-  <a href="mailto:seu.email@email.com"><img src="https://img.shields.io/badge/email-contato-red?style=flat&logo=gmail"></a>
+  <a href="https://github.com/ismarnetodev"><img src="https://img.shields.io/github/followers/ismarnetodev?style=social" alt="GitHub Followers"></a>
+  <a href="mailto:seu.email@email.com"><img src="https://img.shields.io/badge/email-contato-red?style=flat&logo=gmail" alt="Email"></a>
 </p>
 
 ---
 
 ### 🧠 Sobre mim
-- 🎓 Estudante de **Ciência da Computação** (1º período) no Centro Universitário de João Pessoa
-- 🛠️ Trabalhando em projetos com **HTML, CSS, JavaScript** e **Python (CustomTkinter)**
-- 🔧 Interesse especial por **arquitetura de computadores**, **interfaces modernas** e **design responsivo**
-- 💬 Sempre aprendendo e buscando novas formas de resolver problemas
+- 🎓 Estudante de **Ciência da Computação** no Centro Universitário de João Pessoa
+- 🛠️ Desenvolvendo interfaces modernas com **HTML, CSS, JavaScript** e **Python (CustomTkinter)**
+- 🧩 Interesses em **design responsivo**, **UI/UX**, **arquitetura de computadores** e **automação**
+- 🧠 Habilidades em **comunicação, resolução de problemas** e **organização**
+- 🔍 Em busca de oportunidades como **estagiário em TI**
 
 ---
 
-### 🧰 Tecnologias e Ferramentas
+### 💻 Tecnologias e Ferramentas
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS">
@@ -30,26 +32,29 @@
 
 ---
 
-### 📌 Projetos em destaque
-- 🛍️ **[Loja Virtual LDE](https://github.com/SEU_USUARIO/lde-loja)** – Loja de dispositivos eletrônicos com design moderno e responsivo
-- 🧮 **[Conversor de Moedas com Gráfico](https://github.com/SEU_USUARIO/conversor-moedas)** – Sistema de login com saldo e gráficos usando `Matplotlib`, `CustomTkinter` e `JSON`
-- 🧱 **[Arquitetura Moderna](https://github.com/SEU_USUARIO/arquitetura-site)** – Site minimalista inspirado no design da Moo Arquitetura
+### 🚀 Projetos em Destaque
+
+- 🛍️ **[LDE - Loja de Dispositivos Eletrônicos](https://github.com/ismarnetodev/lde-loja)**  
+  Loja virtual com HTML, CSS e JS, responsiva e com design moderno
+
+- 🧮 **[Conversor de Moedas com Gráfico](https://github.com/ismarnetodev/conversor-moedas)**  
+  Sistema de login com saldo, conversor e visualização gráfica usando `CustomTkinter` e `Matplotlib`
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismarnetodev&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismarnetodev&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
 
 ---
 
 ### 🤝 Vamos conversar!
-- 💼 Buscando oportunidades de estágio na área de **TI**
-- 📬 Me mande um e-mail: **seu.email@email.com**
+- 💼 Em busca de estágio na área de **Tecnologia da Informação**
+- 📬 Contato: **ismardev38@gmail.com**
 
 <p align="center">
-  Feito com 💙 por Ismar Neto
+  Feito com 💙 por <strong>Ismar Neto</strong>
 </p>
