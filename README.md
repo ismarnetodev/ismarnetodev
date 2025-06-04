@@ -45,8 +45,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="![ismarnetodev's Stats](https://github-readme-stats.vercel.app/api?username=ismarnetodev&theme=dark&show_icons=true&hide_border=false&count_private=true)" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismarnetodev&layout=compact&theme=radical" alt="Top Langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismarnetodev&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismarnetodev&layout=compact&theme=dark" alt="Top Langs"/>
 </p>
 
 ---
