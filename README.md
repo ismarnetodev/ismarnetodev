@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Ismar Neto 👋</h1>
+<h1 align="center">Olá, eu sou o Ismar Neto 🤓👋</h1>
 
 <p align="center">
   Estudante de Ciência da Computação, desenvolvedor em formação e apaixonado por tecnologia 💻🚀
