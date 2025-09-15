@@ -1,60 +1,77 @@
-<h1 align="center">Olá, eu sou o Ismar Neto 🤓👋</h1>
+<h1 align="center">Hi there, I'm Ismar Neto 🤓👋</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação, desenvolvedor em formação e apaixonado por tecnologia 💻🚀
+  Computer Science student, aspiring developer, and technology enthusiast 💻🚀
 </p>
 
 <p align="center">
   <a href="https://github.com/ismarnetodev"><img src="https://img.shields.io/github/followers/ismarnetodev?style=social" alt="GitHub Followers"></a>
-  <a href="mailto:seu.email@email.com"><img src="https://img.shields.io/badge/email-contato-red?style=flat&logo=gmail" alt="Email"></a>
+  <a href="mailto:ismardev38@gmail.com"><img src="https://img.shields.io/badge/email-contact-red?style=flat&logo=gmail" alt="Email"></a>
+  <a href="https://linktr.ee/ismar.dev"><img src="https://img.shields.io/badge/Portfolio-Linktree-brightgreen?style=flat&logo=linktree" alt="Linktree"></a>
 </p>
 
 ---
 
-### 🧠 Sobre mim
-- 🎓 Estudante de **Ciência da Computação** no Centro Universitário de João Pessoa
-- 🛠️ Desenvolvendo interfaces modernas com **HTML, CSS, JavaScript**, **Python e Java**
-- 🧩 Interesses em **design responsivo**, **UI/UX**, **arquitetura de computadores** e **automação**
-- 🧠 Habilidades em **comunicação, resolução de problemas** e **organização**
-- 🔍 Em busca de oportunidades como **estagiário em TI**
+### 🧠 About Me
+- 🎓 Computer Science student at Centro Universitário de João Pessoa  
+- 💻 Building applications with **Python (CustomTkinter, Machine Learning, Automation)** and **Web Development (HTML, CSS, JavaScript)**  
+- 📊 Knowledge in **Power BI**, **ETL**, and data analysis  
+- 🧩 Interests in **UI/UX**, **Computer Architecture**, **Artificial Intelligence**, and **System Development**  
+- 🛠️ Skills in **hardware/software troubleshooting**, communication, and leadership  
+- 🔍 Currently looking for opportunities as an **IT intern**
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+### 💻 Tech Stack & Tools
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python">
-  <img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" height="40" alt="Java">
+  <img src="https://preview.redd.it/sklauncher-macos-icon-v0-c8yynwfuw3bc1.png?width=256&format=png&auto=webp&s=f7869404435a85c7eef792d5ac0c7f834cf6b9a7" height="40" alt="sklearn">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git">
+  <img src="https://img.icons8.com/color/512/power-bi.png" height="40" alt="Power BI">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/831px-OpenCV_Logo_with_text_svg_version.svg.png" height="40" alt="opencv">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Streamlit-logo-primary-colormark-darktext.png/1280px-Streamlit-logo-primary-colormark-darktext.png" height="40" alt="streamlit">
 </p>
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Featured Projects
 
-- 🛍️ **[LDE - Loja de Dispositivos Eletrônicos](https://github.com/augustoluizdev/projetositeeletronicos.git)**  
-  Loja virtual com HTML, CSS e JS, responsiva e com design moderno
+- 🛍️ **[LDE - Electronics Store](https://github.com/augustoluizdev/projetositeeletronicos.git)**  
+  A modern and responsive e-commerce website built with **HTML, CSS, and JavaScript**
 
-- 🧮 **[Conversor de Moedas com Gráfico](https://github.com/ismarnetodev/Trabalho-Jeofton.git)**  
-  Sistema de login com saldo, conversor e visualização gráfica usando `CustomTkinter` e `Matplotlib`
+- 🧮 **[Currency Converter with Charts](https://github.com/ismarnetodev/Trabalho-Jeofton.git)**  
+  A system with login, balance management, currency conversion, and **graphical visualization** using `CustomTkinter`, `JSON`, and `Matplotlib`
+
+- 🚦 **[Placas](https://github.com/ismarnetodev/placas.git)**  
+  Python project with image files, data storage in JSON; involves parsing/working with "placas" (likely license plates / sign plates) and handling users.  
+
+- 🤖 **[Telegram Bot](https://github.com/ismarnetodev/Bot-telegram.git)**  
+  A chatbot implementation using **Python** for Telegram, capable of handling commands or automating interations.
+
+- 📊 **Data Analysis with Power BI**  
+  Interactive dashboards for analyzing health and physical performance data
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismarnetodev&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismarnetodev&layout=compact&theme=dark" alt="Top Langs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismarnetodev&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismarnetodev&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </p>
 
 ---
 
-### 🤝 Vamos conversar!
-- 💼 Em busca de estágio na área de **Tecnologia da Informação**
-- 📬 Contato: **ismardev38@gmail.com**
+### 🤝 Let's Connect!
+- 💼 Actively looking for an **IT internship opportunity**  
+- 📬 Contact: **ismardev38@gmail.com**  
+- 🌐 Portfolio: [linktr.ee/ismar.dev](https://linktr.ee/ismar.dev)
 
 <p align="center">
-  Feito com 💙 por <strong>Ismar Neto</strong>
+  Made with 💙 by <strong>Ismar Neto</strong>
 </p>
