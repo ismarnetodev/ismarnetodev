@@ -14,7 +14,7 @@
 
 ### 🧠 About Me
 - 🎓 Computer Science student at Centro Universitário de João Pessoa  
-- 💻 Building applications with **Python (CustomTkinter, Machine Learning, Automation)** and **Web Development (HTML, CSS, JavaScript)**  
+- 💻 Building applications with **Python (CustomTkinter, Machine Learning, Automation)**
 - 📊 Knowledge in **Power BI**, **ETL**, and data analysis  
 - 🧩 Interests in **UI/UX**, **Computer Architecture**, **Artificial Intelligence**, and **System Development**  
 - 🛠️ Skills in **hardware/software troubleshooting**, communication, and leadership  
@@ -27,7 +27,6 @@
 <p>
   <img src="https://img.icons8.com/?size=512&id=xSkewUSqtErH&format=png" height="40" alt="pandas">
   <img src="https://img.icons8.com/?size=512&id=aR9CXyMagKIS&format=png" height="40" alt="numpy">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python">
   <img src="https://preview.redd.it/sklauncher-macos-icon-v0-c8yynwfuw3bc1.png?width=256&format=png&auto=webp&s=f7869404435a85c7eef792d5ac0c7f834cf6b9a7" height="40" alt="sklearn">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL">
