@@ -25,8 +25,8 @@
 ### 💻 Tech Stack & Tools
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS">
+  <img src="https://img.icons8.com/?size=512&id=xSkewUSqtErH&format=png" height="40" alt="pandas">
+  <img src="https://img.icons8.com/?size=512&id=aR9CXyMagKIS&format=png" height="40" alt="numpy">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python">
   <img src="https://preview.redd.it/sklauncher-macos-icon-v0-c8yynwfuw3bc1.png?width=256&format=png&auto=webp&s=f7869404435a85c7eef792d5ac0c7f834cf6b9a7" height="40" alt="sklearn">
