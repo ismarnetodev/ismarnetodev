@@ -28,8 +28,9 @@
   <img src="https://img.icons8.com/?size=512&id=xSkewUSqtErH&format=png" height="40" alt="pandas">
   <img src="https://img.icons8.com/?size=512&id=aR9CXyMagKIS&format=png" height="40" alt="numpy">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python">
-  <img src="https://preview.redd.it/sklauncher-macos-icon-v0-c8yynwfuw3bc1.png?width=256&format=png&auto=webp&s=f7869404435a85c7eef792d5ac0c7f834cf6b9a7" height="40" alt="sklearn">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="40" alt="PostgreSQL">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git">
   <img src="https://img.icons8.com/color/512/power-bi.png" height="40" alt="Power BI">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/831px-OpenCV_Logo_with_text_svg_version.svg.png" height="40" alt="opencv">
