@@ -33,7 +33,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="40" alt="PostgreSQL">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git">
   <img src="https://img.icons8.com/color/512/power-bi.png" height="40" alt="Power BI">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/831px-OpenCV_Logo_with_text_svg_version.svg.png" height="40" alt="opencv">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/960px-OpenCV_Logo_with_text_svg_version.svg.png?_=20130608172504" height="40" alt="opencv">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Streamlit-logo-primary-colormark-darktext.png/1280px-Streamlit-logo-primary-colormark-darktext.png" height="40" alt="streamlit">
 </p>
 
